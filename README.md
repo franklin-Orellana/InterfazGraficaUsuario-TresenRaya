@@ -19,25 +19,24 @@
     - InterfazGraficaUsuario-TresenRaya
     
     
-**2. Realizar varios commit y push por cada requerimiento de los puntos descritos anteriormente (incluir un mensaje que identifique claramente los commits realizados a 
-
-GitHub).**
+**2. Realizar varios commit y push por cada requerimiento de los puntos descritos anteriormente (incluir un mensaje que identifique claramente los commits realizados a GitHub).**
 
      - Se realizaron 5 comist 
      
+![commit](https://user-images.githubusercontent.com/49034691/57351099-444b6b00-7126-11e9-8930-05c846811b68.png)
+
      
 **3. Construir las aplicaciones en Java.**
 
-         **Calculadora**
+         Tres En Raya
          
-![calculadora](https://user-images.githubusercontent.com/49034691/57350596-490f1f80-7124-11e9-9e2f-fa59d81beb25.png)
-
+![tres](https://user-images.githubusercontent.com/49034691/57351025-f9315800-7125-11e9-8454-81996dd3e020.png)
          
          **Funcionamiento**
-![multi](https://user-images.githubusercontent.com/49034691/57350725-cdfa3900-7124-11e9-8de1-718a4255a4be.png)
-     
          
- **4. GitHub**
+![res](https://user-images.githubusercontent.com/49034691/57351060-23831580-7126-11e9-9509-20a4bf109819.png)
+
+**4. GitHub**
  
       -	https://github.com/franklin-Orellana/InterfazGraficaUsuario-Calculadora
       
