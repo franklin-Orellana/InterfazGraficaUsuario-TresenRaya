@@ -38,7 +38,7 @@
 
 **4. GitHub**
  
-      -	https://github.com/franklin-Orellana/InterfazGraficaUsuario-Calculadora
+      -	https://github.com/franklin-Orellana/InterfazGraficaUsuario-TresenRaya
       
 **RESULTADO(S) OBTENIDO(S):**
 
