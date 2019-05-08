@@ -378,12 +378,12 @@ public class Interfaz extends javax.swing.JFrame {
 
     public void ganadorJugador() {
         JOptionPane.showMessageDialog(null,
-                "Gana Jugador");
+                "Gana Jugador1");
     }
 
     public void ganadorComputadora() {
         JOptionPane.showMessageDialog(null,
-                "Gana Computadora");
+                "Gana Jugador2");
     }
 
     private void reiniciarActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_reiniciarActionPerformed
