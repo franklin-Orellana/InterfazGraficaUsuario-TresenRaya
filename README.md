@@ -34,7 +34,8 @@ GitHub).**
 
          
          **Funcionamiento**
-         
+![multi](https://user-images.githubusercontent.com/49034691/57350725-cdfa3900-7124-11e9-8de1-718a4255a4be.png)
+     
          
  **4. GitHub**
  
